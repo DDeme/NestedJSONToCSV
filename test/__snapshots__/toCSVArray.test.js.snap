@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`toCSVArray toCSVArray  1`] = `
+[
+  {
+    "age": 25,
+    "hobbies": "reading",
+    "id": 1,
+    "name": "Alice",
+  },
+  {
+    "age": 25,
+    "hobbies": "painting",
+    "id": 1,
+    "name": "Alice",
+  },
+  {
+    "age": 25,
+    "city": "Exampleville",
+    "id": 1,
+    "name": "Alice",
+    "street": "123 Main St",
+    "type": "home",
+  },
+  {
+    "age": 25,
+    "city": "Workington",
+    "id": 1,
+    "name": "Alice",
+    "street": "456 Office Rd",
+    "type": "work",
+  },
+  {
+    "age": 30,
+    "hobbies": "gardening",
+    "id": 2,
+    "name": "Bob",
+  },
+  {
+    "age": 30,
+    "hobbies": "cooking",
+    "id": 2,
+    "name": "Bob",
+  },
+  {
+    "age": 30,
+    "city": "Greenville",
+    "id": 2,
+    "name": "Bob",
+    "street": "789 Garden Ave",
+    "type": "home",
+  },
+]
+`;
+
+exports[`toCSVArray toCSVArray  2`] = `
+[
+  {
+    "age": 25,
+    "hobbies": "reading",
+    "id": 1,
+    "name": "Alice",
+  },
+  {
+    "hobbies": "painting",
+  },
+  {
+    "age": 30,
+    "hobbies": "gardening",
+    "id": 2,
+    "name": "Bob",
+  },
+  {
+    "hobbies": "cooking",
+  },
+]
+`;
