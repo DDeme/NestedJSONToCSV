@@ -1,0 +1,8 @@
+"id","name","age","hobbies","type","street","city"
+1,"Alice",25,"reading",,,
+1,"Alice",25,"painting",,,
+1,"Alice",25,,"home","123 Main St","Exampleville"
+1,"Alice",25,,"work","456 Office Rd","Workington"
+2,"Bob",30,"gardening",,,
+2,"Bob",30,"cooking",,,
+2,"Bob",30,,"home","789 Garden Ave","Greenville"

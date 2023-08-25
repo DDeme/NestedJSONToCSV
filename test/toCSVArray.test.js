@@ -34,6 +34,8 @@ const nestedTestData = [
   },
 ];
 
+console.log(JSON.stringify(nestedTestData))
+
 describe("toCSVArray", () => {
   test("toCSVArray ", () => {
     expect(toCSVArray(nestedTestData)).toMatchSnapshot();
