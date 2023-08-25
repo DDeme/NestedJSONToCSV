@@ -537,18 +537,18 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
-"@json2csv/formatters@^7.0.2":
-  version "7.0.2"
-  resolved "https://registry.yarnpkg.com/@json2csv/formatters/-/formatters-7.0.2.tgz#6f6cfc4a77ad7361bb01ea846c8999babf8ee741"
-  integrity sha512-XbvRFzZJRltd6n6IUYHjg+Q4miMwd6h0EN3HvLv1u0s31IxpC9kWCBVh4dNHysRLvCcb4l4FkbUCc1GY8bfw8Q==
+"@json2csv/formatters@^7.0.3":
+  version "7.0.3"
+  resolved "https://registry.yarnpkg.com/@json2csv/formatters/-/formatters-7.0.3.tgz#4d0584bd2664d6dfaa7bccc192d1d18aac7bee27"
+  integrity sha512-QLTpBNmNxGDAQNALkWwPdnyJ7IdXHQ0Motzog4fZOKK2ozpxckl6vwhWNBxbQs/25Zhp7bLS4J6ILu/hh0en6w==
 
 "@json2csv/plainjs@^7.0.2":
-  version "7.0.2"
-  resolved "https://registry.yarnpkg.com/@json2csv/plainjs/-/plainjs-7.0.2.tgz#e7022415b50308fc39cfec93d48e8c92204c0262"
-  integrity sha512-Cjkdc6/sF2XLLf7hi1N2DzMPzMMO0YnxetgLZVUqTT10EANm3SAWWRtluYFAeuqC0DtNBOTgIWgiwmDsEtf8Ag==
+  version "7.0.3"
+  resolved "https://registry.yarnpkg.com/@json2csv/plainjs/-/plainjs-7.0.3.tgz#2182da06a38c17caceca64701389d9b80a233588"
+  integrity sha512-AEpEdeSu8o64Sdf7Xoy7BM4MyfZToN7oxxleXJ6u7v3h0V0hKdNIw7i4kQ08wiIe7lcJBhS3JRyEPKX6k2AsjA==
   dependencies:
-    "@json2csv/formatters" "^7.0.2"
-    "@streamparser/json" "^0.0.16"
+    "@json2csv/formatters" "^7.0.3"
+    "@streamparser/json" "^0.0.17"
     lodash.get "^4.4.2"
 
 "@sinclair/typebox@^0.27.8":
@@ -570,10 +570,10 @@
   dependencies:
     "@sinonjs/commons" "^3.0.0"
 
-"@streamparser/json@^0.0.16":
-  version "0.0.16"
-  resolved "https://registry.yarnpkg.com/@streamparser/json/-/json-0.0.16.tgz#606d6f41cab365e9cb89361f60286e5cb8d2abf7"
-  integrity sha512-9TYO1bTNtYhF6UA2+DMGvSkewSpSyXSK1ZaizGcVTeE2rpdH/QcmdIMQkmnglS6uRbzP5QcZ4Dydirf1org4oQ==
+"@streamparser/json@^0.0.17":
+  version "0.0.17"
+  resolved "https://registry.yarnpkg.com/@streamparser/json/-/json-0.0.17.tgz#b68742ebb49eec9c1fcc76cfa730dd74a5131382"
+  integrity sha512-mW54K6CTVJVLwXRB6kSS1xGWPmtTuXAStWnlvtesmcySgtop+eFPWOywBFPpJO4UD173epYsPSP6HSW8kuqN8w==
 
 "@types/babel__core@^7.1.14":
   version "7.20.1"
