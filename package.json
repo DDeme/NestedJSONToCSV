@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@json2csv/plainjs": "^7.0.2",
-    "flat": "^5.0.2"
+    "flat": "^6.0.0"
   },
   "devDependencies": {
     "jest": "^30.0.0",
