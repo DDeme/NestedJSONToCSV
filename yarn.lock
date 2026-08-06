@@ -574,18 +574,18 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
-"@json2csv/formatters@^7.0.7":
-  version "7.0.7"
-  resolved "https://registry.yarnpkg.com/@json2csv/formatters/-/formatters-7.0.7.tgz#64c190f96fb618c0448df1e41392a08cacbaab25"
-  integrity sha512-Sm0F11FKnTouBVYqW0Sp+/P7ECapfAEw0p0L6lz0z6q3I6CVQjFnQ8m20g3KlJvYq+y4G9m56QZHAWiUxIJlRA==
+"@json2csv/formatters@^7.0.8":
+  version "7.0.8"
+  resolved "https://registry.yarnpkg.com/@json2csv/formatters/-/formatters-7.0.8.tgz#62ba5fb5b230c8fc0725caee35b4e1ed71010170"
+  integrity sha512-YYpeZF7qKSX55FMYEl0m7Hn188l050k171/KwDHSMPHLHvWxDbzjmH1qVfXyV7XO7MMpDx1P7xksd/jXqlLxDw==
 
 "@json2csv/plainjs@^7.0.2":
-  version "7.0.7"
-  resolved "https://registry.yarnpkg.com/@json2csv/plainjs/-/plainjs-7.0.7.tgz#9bca695fac0cb0aacfba9af00fb13f03037d5931"
-  integrity sha512-aJWN+HrOp1YQaA/fnYtTDlc24ZNRfUlu5ercUPyggxE8tq90Pd88dCdX/aj+BRiLB+/6UZyRbCIkFj0/iBPMgw==
+  version "7.0.8"
+  resolved "https://registry.yarnpkg.com/@json2csv/plainjs/-/plainjs-7.0.8.tgz#12d1c7dc162309f12d51a4e65df453ed405e30c3"
+  integrity sha512-bxsdb7tcHFyq6SGvDdHrxgSLxc8ScNyX+6B1aT+Anp8PEieZIenf6lPIJ2CnB4MQkrNANfFj6mXJlK9f8Bh5wg==
   dependencies:
-    "@json2csv/formatters" "^7.0.7"
-    "@streamparser/json" "^0.0.22"
+    "@json2csv/formatters" "^7.0.8"
+    "@streamparser/json" "^0.0.23"
 
 "@napi-rs/wasm-runtime@^0.2.11":
   version "0.2.12"
@@ -625,10 +625,10 @@
   dependencies:
     "@sinonjs/commons" "^3.0.1"
 
-"@streamparser/json@^0.0.22":
-  version "0.0.22"
-  resolved "https://registry.yarnpkg.com/@streamparser/json/-/json-0.0.22.tgz#8ddcbcc8c3ca77aeadf80af47f54a64c8739a037"
-  integrity sha512-b6gTSBjJ8G8SuO3Gbbj+zXbVx8NSs1EbpbMKpzGLWMdkR+98McH9bEjSz3+0mPJf68c5nxa3CrJHp5EQNXM6zQ==
+"@streamparser/json@^0.0.23":
+  version "0.0.23"
+  resolved "https://registry.yarnpkg.com/@streamparser/json/-/json-0.0.23.tgz#d567d9b804fb7e9dcc6ba590c6406080fb9c5be0"
+  integrity sha512-givIVGxVGwP2oh5wiGdjQBKLZAS6LMkvnOxKybKTZDWP9LCO20eAzAL8OkUg8iR7u28cB2Ti7lFfLHnAAZGN6A==
 
 "@tybys/wasm-util@^0.10.0":
   version "0.10.0"
